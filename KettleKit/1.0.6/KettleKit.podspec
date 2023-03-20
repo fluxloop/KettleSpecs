@@ -1,4 +1,4 @@
-KETTLE_VERSION="1.0.5"
+KETTLE_VERSION="1.0.6"
 KETTLE_SOURCE="https://kettleartifacts.blob.core.windows.net/ios/1.0.6.zip"
 
 Pod::Spec.new do |s|
