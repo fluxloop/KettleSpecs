@@ -1,5 +1,5 @@
-KETTLE_VERSION="1.3.0-PRD7"
-KETTLE_SOURCE="https://kettleartifacts.blob.core.windows.net/ios/1.3.0.zip"
+KETTLE_VERSION="1.4.0"
+KETTLE_SOURCE="https://kettleartifacts.blob.core.windows.net/ios/1.4.0.zip"
 
 Pod::Spec.new do |s|
     s.name = 'KettleKit'
